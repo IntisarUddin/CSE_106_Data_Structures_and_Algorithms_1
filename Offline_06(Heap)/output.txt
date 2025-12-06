@@ -1,0 +1,21 @@
+Inserted 50 into the heap.
+Heap: 50 
+Max Heap property is preserved.
+Inserted 30 into the heap.
+Heap: 50 30 
+Max Heap property is preserved.
+Inserted 20 into the heap.
+Heap: 50 30 20 
+Max Heap property is preserved.
+Inserted 50 into the heap.
+Heap: 50 50 20 30 
+Max Heap property is preserved.
+Max: 50
+Extracted Max: 50
+Heap: 50 30 20 
+Max Heap property is preserved.
+Heap size: 3
+Is heap empty? No
+Deleted element at index 0
+Heap: 30 20 
+Max Heap property is preserved.
